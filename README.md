@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Press
+* https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember
+* https://enterprisersproject.com/article/2020/5/kubernetes-migration-4-secrets
+* https://enterprisersproject.com/article/2020/4/kubernetes-architecture-beginners
+* https://enterprisersproject.com/article/2020/3/minikube-kubernetes-best-friend-6-facts
+* https://enterprisersproject.com/article/2020/3/14-kubernetes-interview-questions
